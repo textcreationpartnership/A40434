@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Right Honourable the Lord Mayor the aldermen and governors of the several hospitals of the city, at St. Bridget's Church on Easter-Tuesday, 1698, being one of the anniversary spittle-sermons / by Sa. Freemam.</title>
+            <author>Freeman, Samuel, 1643-1700.</author>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40434</idno><idno type="EEBO-CITATION">10329870</idno>
+  <idno type="VID">44878</idno>
+  <idno type="EEBO-PROQUEST">2240950348</idno>
+  
+            <idno type="STC">Wing F2149</idno>
+            <idno type="STC">ESTC R28026</idno>
+            <idno type="OCLC">10329870</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44878)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Right Honourable the Lord Mayor the aldermen and governors of the several hospitals of the city, at St. Bridget's Church on Easter-Tuesday, 1698, being one of the anniversary spittle-sermons / by Sa. Freemam.</title>
+                  <author>Freeman, Samuel, 1643-1700.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren for Thomas Bennet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Corinthians, 1st, XV, 58 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:44878:1"/>
+            <opener>
+               <signed>Edwin Mayor,</signed>
+               <dateline>Curia Special' tent' apud domum Mancio<g ref="char:EOLhyphen"/>nat. <hi>Jacobi Collet,</hi>
+                  <date>Mil. unum vic. die Mercur. <hi>xxvii.</hi> die <hi>Aprilis</hi> in Heb<g ref="char:EOLhyphen"/>domada Paschae, <hi>1698.</hi> Anno{que} Regni Regis <hi>Willielmi</hi> Tertii, Angliae, <hi>&amp;c.</hi> Decimo.</date>
+               </dateline>
+            </opener>
+            <p>THis Court doth desire Dr. <hi>Freeman,</hi> Dean of <hi>Peterborough,</hi> to Print his Sermon Preached on <hi>Tuesday</hi> last, at the Parish Church of St. <hi>Bridget</hi>'s, before the <hi>Lord Mayor, Aldermen,</hi> and <hi>Governours</hi> of the se<g ref="char:EOLhyphen"/>veral Hospitals of this City.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:44878:1"/>
+            <p>A SERMON Preach'd before the Right Honourable THE Lord Mayor, THE ALDERMEN and GOVERNORS of the several Hospitals of the City.</p>
+            <p>AT St. <hi>Bridget</hi>'s Church, On <hi>Easter-Tuesday,</hi> 1698.</p>
+            <p>
+               <hi>Being one of the Anniversary</hi> Spittle-Sermons.</p>
+            <p>By <hi>S A. FREEMAM,</hi> D. D. Dean of <hi>Peter<g ref="char:EOLhyphen"/>borough</hi> and Chaplain in Ordinary to His Majesty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren</hi> for <hi>Thomas Bennet</hi> at the <hi>Half Moon</hi> in St. <hi>Paul</hi>'s Church-Yard, 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:44878:2"/>
+            <pb n="1" facs="tcp:44878:2"/>
+            <head>A SERMON Preach'd before the Lord Mayor AND COURT of ALDERMEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Cor. xv. 58.</hi>
+                  </bibl>
+                  <p>Therefore my beloved Brethren, be ye stedfast, unmoveable always abounding in the Work of the Lord, for as much as ye know that your labour is not in vain in the Lord.</p>
+               </q>
+            </epigraph>
+            <p>IN the words there are these two things very worthy of our serious Consideration.</p>
+            <p>
+               <hi>First,</hi> A Pathetical exhortation to a most sea<g ref="char:EOLhyphen"/>sonable and necessary duty, <hi>My beloved Brethren, be
+<pb n="2" facs="tcp:44878:3"/> ye stedfast, unmoveable, always abounding in the work of the Lord.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> A most powerful motive and argument to enforce it, <hi>For as much as ye know that your labour is not in vain in the Lord.</hi>
+            </p>
+            <p>For the better and more useful understanding of both which I shall endeavour to shew you.</p>
+            <p n="1">I. What's meant <hi>by the work of the Lord.</hi>
+            </p>
+            <p n="2">II. What it is <hi>to be stedfast and unmoveable in it.</hi>
+            </p>
+            <p n="3">III. What, <hi>to abound in it.</hi>
+            </p>
+            <p n="4">IV. In what sence he that thus does the <hi>work of the Lord, his labour is not in vain in the Lord.</hi>
+            </p>
+            <p n="5">V. The truth and certainty of this Proposition, That he that constantly and faithfully does God's work, does it not in vain. The Apostle speaks of it as a thing of knowledge, that might be demonstra<g ref="char:EOLhyphen"/>ted, and his argument is taken from our Saviour's Re<g ref="char:EOLhyphen"/>surrection from the Dead, as you see in the beginning of the Chapter.</p>
+            <p n="1">I. What's meant <hi>by the work of the Lord, viz.</hi> That work that he hath set us about and expects from us, and this is usually divided into matters <hi>of belief</hi> and matters <hi>of practice.</hi>
+            </p>
+            <p>Matters of belief, as concerning the nature and At<g ref="char:EOLhyphen"/>tributes of God, the Persons and Offices of his Eternal Son and the holy Ghost; these are summarily con<g ref="char:EOLhyphen"/>tain'd in that which is commonly call'd the Apostle's Creed, more fully exprest in the Written word of God. The Church of <hi>Rome</hi> indeed would have this written word to contain but a Part of our Faith and the rest left to unwritten Traditions; but if the word
+<pb n="3" facs="tcp:44878:3"/> of God was committed to Writing by the Direction of the Holy Ghost, then is writing the best way to convey down Divine Truth; and if Writing be the best way, then is all of it written, because the Holy Ghost does always what is best: Writing is either the best way, or it is not. If it be not, Why was a<g ref="char:EOLhyphen"/>ny of it written? If it be, Why not the whole?</p>
+            <p>Matters of Practice, Those are in a great mea<g ref="char:EOLhyphen"/>sure discover'd by the light of Nature; Epitomiz'd and written, as it were in a short hand, in the Ten Commandments, more fully Explain'd, improv'd and perfected in our Saviour's most Divine Sermons on the Mount: Amongst these Almes and Charity de<g ref="char:EOLhyphen"/>servedly take the first place, a duty made necessary by innumerable Precepts, Illustrated by a most Glo<g ref="char:EOLhyphen"/>rious Example, made Easy by Promises of Divine Assistance, made Pleasant and Profitable by assurances of unspeakable rewards.</p>
+            <p n="2">II. What it is to <hi>be stedfast and unmoveable in the work of the Lord.</hi>
+            </p>
+            <p>These words particularly relate to that part of our duty which Concerns our belief, and so, <hi>to be stedfast and unmoveable</hi> in it, denotes a firm and resolv'd Tem<g ref="char:EOLhyphen"/>per of Mind in adhering to and persevering in the pro<g ref="char:EOLhyphen"/>fession of it, in opposition either to the being shaken from it, by the violence of persecution, or corrrupted in it by the insinuations of heresy; Blessed be God, we are deliver'd from the fear of the former, and I wish I could say, we were in no danger of the latter; St. <hi>Jude</hi> exhorts us <hi>earnestly to contend for the faith once deliver'd to the Saints,</hi> for this reason, <hi>there were cer<g ref="char:EOLhyphen"/>tain Men crept in unawares,—Ʋngodly Men turning the grace of our God into lasciviousness and denying the
+<pb n="4" facs="tcp:44878:4"/> only Lord God and our Lord Jesus Christ.</hi> The Gospel of Christ was so abundantly confirm'd by the many Miracles he wrought, and the accomplishment of all Prophecies that went before concerning him, that a Man may as well say, the Sun is dark, as that the Gospel is not true; strange is it therefore that there should be any amongst us Baptiz'd into it and Educa<g ref="char:EOLhyphen"/>ted in the profession of it, that should not only secret<g ref="char:EOLhyphen"/>ly but openly oppose and Blaspheme it, ridiculing the Sacred Scriptures and all reveal'd Religion as Cheat and Imposture. They own, they tell us, the being of God and Providence, the difference between Good and Evil, Rewards and Punishment in the other World; the Bible, they are contented should pass for a pretty good History of matters of Fact, and the Christian morals they admire above all the Schemes of morality that ever were in the World before it. But yet they see nothing here but what the light of Nature might have discover'd and the reason of Mankind have found out; and therefore they ask what necessity was there that God should send his Son into the World to teach Men that which they knew before, and by his Death to make atonement for Sin, which to the greater Glory of his Grace, he might have forgiven without one. The Doctrines of the Trinity and Incarnation are riddles to them, which because they cannot unfold, they will not believe, and for the sake of them disbelieve all the rest. And here fall in another gang of Men not much different from the former, who, whilest they profess to own the Christian Faith do, by expounding away some of the chief and fundamental Articles of it, dangerously sap and undermine it; these are the Men that can
+<pb n="5" facs="tcp:44878:4"/> swallow nothing but what they can grasp and fa<g ref="char:EOLhyphen"/>thom, believe nothing but what they can discover the causes and manner of, and a clear and distinct perception of things is to them the only Foundation of Faith as well as of knowledge. This they call <hi>Sense and Reason,</hi> as if there was none in believing the Revelations of God, as if there was no difference to be made betwixt things contrary to Nature, and things Superior to it and above it, and as if these lat<g ref="char:EOLhyphen"/>ter, when clearly taught in the Divine Oracles were not the properest objects of Faith. So that as our Saviour baffl'd all the Temptations of the Devil, so may we silence all the objections of these Pretenders to Reason, <hi>Scriptum est, It is written,</hi> and I believe it: After all, it may be all the reason they have against the Gospel is, that the Gospel is against them, they will not believe that Gospel which condemns those Vices they are resolved not to forsake, <hi>they repented not that they might believe;</hi> but could we perswade these Men to change their Lives, we should find it no hard matter to convince their judgments, the passage being easy from Virtue to Christianity.</p>
+            <p n="3">III. What it is <hi>to abound in the Work of the Lord.</hi>
+            </p>
+            <p>Now this phrase, respects the practical part of our Duty, and chiefly that of Charity, as the former did the Credential; <hi>and so to abound in the Work of the Lord,</hi> is to rise to the highest degree of all Virtue, that our Nature assisted by the Grace of God is ca<g ref="char:EOLhyphen"/>pable of, and especially of the Grace of Charity: And being particularly applyed to this Grace, it signifies, to give all sorts of Alms, to all sorts of Men; and that in the largest measures, wherein their wants
+<pb n="6" facs="tcp:44878:5"/> may crave, and our own abilities can reach unto: To enlarge on this, I shall not need to do more than to read to you this <hi>true Report,</hi> and turn your Eyes on this glorious Sight here before you.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="appeal">
+                        <head>The true Report, <hi>&amp;c.</hi>
+                        </head>
+                        <p>Here are five Eminent Hospitals, all full of variety of Indigent and Distressed Persons; and every one of them a most powerful Argument, to melt your Hearts into a flowing Stream of Mercy and Bounty to them: If you are ready to give, and desire only to be directed how you may do it wisely and safely; I grant, it is a just Consideration; but here you can<g ref="char:EOLhyphen"/>not do amiss, you may pick and choose; though, if you would <hi>abound,</hi> the best way is to give to all.</p>
+                        <p>The first that presents it self is the Hospital of <hi>Christ-Church;</hi> concerning which, I am very sorry to say, so heavy a Debt lies upon her Revenue, that, as I am inform'd, she has not been able for these three Years to add one to the number of her poor Orphans; and that nothing but a large and generous Contributi<g ref="char:EOLhyphen"/>on can open her Arms and Gates again to receive them. Do but enter a little within her Walls, how few are there in the World that can vie with her, for the Beauty of her Buildings, the Commodiousness of her Apartments, the Excellency of her Government, the Wise and Faithful Management of her Revenue, the exact Order and Discipline that's kept in her?</p>
+                        <p>See how Wholesomely those poor Children are Fed, how Decently Clothed, how Diligently Taught, how Religiously Educated, Instructed in the Know<g ref="char:EOLhyphen"/>ledge of God and our Saviour, in their Duty to Him, Themselves, and Others; secur'd in their Faith from
+<pb n="7" facs="tcp:44878:5"/> Errour, and in their Manners from Vice; trained up in the most useful Learning; and when duly fit<g ref="char:EOLhyphen"/>ted and prepar'd, either sent to the University, or put out to such Callings or Employments, as are most suitable to their Genius, and will be most service<g ref="char:EOLhyphen"/>able to the Community.</p>
+                        <p>See what a great number of Hopeful Plants are here, which by degrees, with the Blessing of God may grow up and bear much Fruit for the Publick Good and Safety.</p>
+                        <p>Now is not here a Noble Occasion for an <hi>abounding Charity?</hi> Will it not be for your Eternal Honour to open these Sluces, and remove those Damms that have for a while stop'd up part of this Fountain, that it could not flow in so large a Stream, as other<g ref="char:EOLhyphen"/>wise it would have done? May not the Rich and Great, had they Minds suitable to their Abilities, create here a never failing Fund, raise an Inexhausti<g ref="char:EOLhyphen"/>ble Bank of Blessings for their Families and Posteri<g ref="char:EOLhyphen"/>ties?</p>
+                        <p>Next to this are the Hospitals of St. <hi>Bartholomew</hi> and St. <hi>Thomas;</hi> and here the Blind and the Lame, the Sick and the Wounded, with the most moving and powerful Rhetorick, that of Pain as well as Poverty, address to you, that you would with Compassionate Hearts, Soft and Tender Hands help to bind up their Wounds and heal their Sores; these Miserable Wretches want not only Food and Rayment, but Hands and Feet too, that should supply the other; and the more disabled and shiftless their State is, the greater Obligation are Men under to Administer to their Necessities; what our Blessed Lord did on Earth by Miracle and without Means, the Good Man does
+<pb n="8" facs="tcp:44878:6"/> here by his Charitable Assistances, he makes the Blind to See, the Lame to Walk, the Sick to Recover, and the Diseased to be Whole.</p>
+                        <p>In the Hospital of <hi>Bridewel,</hi> besides a number of Youths brought up Yearly at a vast Expence to di<g ref="char:EOLhyphen"/>verse Arts and Trades, here we have Vice Corrected, Wayfaring Vagrants Relieved, and sent Home to their proper Places of Abode: And can there be a more acceptable Charity to God and Men, than that which is employ'd in suppressing Lewdness, and Re<g ref="char:EOLhyphen"/>forming the Manners of loose People?</p>
+                        <p>The last is <hi>Bethlem,</hi> and here though the Lunatick and Distracted, being not sensible of their Condition, cannot make it known to you, yet, I think, the sad<g ref="char:EOLhyphen"/>ness of their Condition is the most melting Oratory in the World. Can we behold those, whom we for<g ref="char:EOLhyphen"/>merly knew to be Persons of good Understanding, and wise Behaviour; it may be of great Abilities, as to Judgment and Wit, now in a senceless Condi<g ref="char:EOLhyphen"/>tion, either under a deep silent Melancholy, or ra<g ref="char:EOLhyphen"/>ging with hideous Noises, and broken Speeches? Can we see so Noble a Creature as Man become a meer Brute? The Glorious Image of God Stampt on him so miserably defac'd? and have no Pity and Concern for them? Can there be any Charity like that which restores a Man to himself, and a right Mind, which fixes his roving Fancy, methodizes his con<g ref="char:EOLhyphen"/>fus'd Thoughts, dispels the Mists and Vapours that sit so thick on his Understanding, and give a false Tincture and Colour to all before it; which couches the eye of his Reason, and restores to it its true dis<g ref="char:EOLhyphen"/>cerning and distinguishing Faculty? A Diseased Body is a very great Affliction; but a Distemper'd Mind is
+<pb n="9" facs="tcp:44878:6"/> unspeakably so; and that Man must be void of Huma<g ref="char:EOLhyphen"/>nity as well as Grace, that does not readily come in to the succour of so deplorable an Object.</p>
+                        <p>After all hadst thou rather Contribute to New Foundations than Enlarge or Assist the Old? In the name of God, go on and prosper; here's room enough for more, great Need, if not absolute Ne<g ref="char:EOLhyphen"/>cessity for Work-Houses, and a Publick Stock to set the Poor to Work in them; and this certainly, must be owned to be a most useful Charity, which keeps the Poor at once from Starving, and from Sloth, and in some degree, makes them helpful to the Publick, that are now an intolerable Bur<g ref="char:EOLhyphen"/>den to it; This would very much lessen the Num<g ref="char:EOLhyphen"/>ber of your Street-Beggars, which, perhaps, can effectually be done no other way, whilst as other Hospitals may maintain the Poor that cannot work, these may employ those that can, and so put them in a way to maintain themselves.</p>
+                        <p>In sum, would you place your Charity to the great<g ref="char:EOLhyphen"/>est Advantage, where it may turn to the best Ac<g ref="char:EOLhyphen"/>count? Put it into their Hands, of whose Prudence, Faithfulness, and Care, you have had so great Experi<g ref="char:EOLhyphen"/>ence; theirs, who not only manage other Mens Charities, but give their own.</p>
+                        <p>To the Immortal praise of the Governours of this great City, and the several Hospitals of it, it must be spoken; here Charity gains its point, and obtains its true end; here are the greatest Exam<g ref="char:EOLhyphen"/>ples of Charity, here all the Provident, Discreet, and Upright Management of it.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="10" facs="tcp:44878:7"/>
+            <p>Give me now leave to become an humble Petitioner to you, but it is only to do as you have done already, or rather <hi>to abound;</hi> and if it be not a Matter of too great a Difficulty, to out do your selves; always remembring, that <hi>your Labour,</hi> that is, as the Apostle speaks,<note place="margin">2 Thess. 1.3.</note>
+               <hi>your Labour of Love,</hi> and Work of Charity is <hi>not in vain in the Lord:</hi> And this leads me to the fourth Particular.</p>
+            <p n="4">IV. In what Sense he that does <hi>the Work of the Lord</hi> Faithfully and Constantly, <hi>his Labour is not in vain in the Lord.</hi>
+            </p>
+            <p>There is a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Words, a great deal more implyed than express'd. <hi>Is not in vain,</hi> that is, shall turn to his huge Advantage; sometimes in this World, but always in the next.<note place="margin">1 Tim. 4.4.</note>
+               <hi>Godliness,</hi> says the <hi>Apostle, has the Promise of this Life, and of that which is to come:</hi> God usually requites Men in that very way wherein they endeavour to Glorify Him; so that for those, who, for God's sake impart their Substance to their poor Brethren, he in regard thereto many times blesses their Estates, and prospers their Dealings; but Good-men are not always Happy in this World, and its no great matter, 'tis but little worth: But in the other World he shall never miss of it, and the Happiness there is Infinite and Eternal; enough to make him amends for all his Labours and Sufferings, and to give him unconceiveably more. You cannot expect that I should give you a full description of Heaven, or of those constant Joys holy Souls are there taken up with. We must first be in Heaven our<g ref="char:EOLhyphen"/>selves, and experience in our own Souls those Glori<g ref="char:EOLhyphen"/>ous, Pleasant, and Delightsome Affections and Actions,
+<pb n="11" facs="tcp:44878:7"/> wherewith the Saints above do live on God, before we can give any good account of them to others:</p>
+            <p>Holy writ sometimes represents them by things the most coveted and admir'd in this World, <hi>by Crowns, and Thrones, and Scepters, by a Banquet and Marriage-Feast,</hi> and the like; not that the Joys of Heaven consist in the Enjoyment of these, but to let us see that they are infinitely more Delightful and Ravishing to Souls purifyed and made meet for them, than all these things can be to the Men of this World:</p>
+            <p>But the expressions in Scripture that come the near<g ref="char:EOLhyphen"/>est, and discover most of the Heavenly State, are these two, <hi>seeing God, and being with Christ.</hi>
+            </p>
+            <p>
+               <hi>Seeing God.</hi> Oh the transporting Knowledge! The Ravishing view of his Glorious Countenance! Oh the infinite Pleasure of Loving God, and of the full assurance of being belov'd by Him?<note place="margin">1 Joh. 3.2.</note>
+               <hi>We shall be like Him, for we shall see him as he is.</hi> We shall be transform'd into his Image, and made partakers of his Nature, and consequently of his Happiness as far as we are capable of it; for certainly those Per<g ref="char:EOLhyphen"/>fections will make Men Happy, that make God himself to be so. The other is</p>
+            <p>
+               <hi>Being with Christ:</hi>
+               <note place="margin">Phil. 1.23.</note> Then we shall ever have our Redeemer before our Eyes, and the liveliest Sense, and freshest Remembrance of his dying, bleeding Love always upon our Souls: Oh how will it fill our Hearts with perpetual Ravishments, to see him who suffer'd so much for us on Earth, Crown'd with Immortal Honour and Glory in the highest Heavens! A Glory so Transporting! That those three Apostles, <hi>Peter, James,</hi> and <hi>John,</hi> when at his
+<pb n="12" facs="tcp:44878:8"/> Transfiguration they saw but a glimps,<note place="margin">Matt. 17.2.</note> had as it were but a flash of it, would never have left the Place which it once had lighten'd: <hi>Master, it is good for us to be here,</hi> let us go down no more, <hi>let us build three Tabernacles, one for Thee, and one for</hi> Moses, <hi>and one for</hi> Elias.</p>
+            <p n="5">V. I proceed to the last Particular, the Truth and Certainty of this Proposition; the Apostle speaks of it as a thing of Knowledge that might be demon<g ref="char:EOLhyphen"/>strated, <hi>for as much as ye know:</hi> And,</p>
+            <p n="1">1. Every Man carries a witness of this Truth a<g ref="char:EOLhyphen"/>bout him in his own Breast, the natural Dictates and Testimonies of his own Conscience; for how comes it to pass that Men are so brave and comfortable in their Spirits, when they have done Well and Wor<g ref="char:EOLhyphen"/>thily, that they are then courted and kindly warmed in their Hearts with Peace and Joy; that they can look up to God with Delight, and towards Death without Consternation? And on the other side, what's the cause that their Spirits are down, their Countenan<g ref="char:EOLhyphen"/>ces fallen, and all things look black and melancholy round about them, when they are conscious to them<g ref="char:EOLhyphen"/>selves of having liv'd Wickedly, and done base and unworthy Actions? What other account can be gi<g ref="char:EOLhyphen"/>ven of this remarkable diversity in Men's secret Sense? But only this, it's the Voice of God and Na<g ref="char:EOLhyphen"/>ture, telling them as they did Cain, <hi>if thou dost well, shalt thou not be accepted, but if thou dost ill, Sin lies at the door.</hi>
+            </p>
+            <p n="2">2. It's evident from the Nature and Attributes of God, who being infinitely Just, must render to every Man according to his Works, and that either here, or
+<pb n="13" facs="tcp:44878:8"/> hereafter; but he does not hear, for there is a Righteous Man to whom it happens according to the way of the Wicked, and a Wicked Man to whom it happens ac<g ref="char:EOLhyphen"/>cording to the way of the Righteous; and therefore he must hereafter, when the Righteous shall be Com<g ref="char:EOLhyphen"/>forted, and the Wicked Tormented. It was by this Argument chiefly, that a considerable part of the Heathen World arriv'd to a good degree of Belief, as to another Life; they observed that Good Men ma<g ref="char:EOLhyphen"/>ny times were Oppress'd, and Wise Men lost their Liberty, that the Unjust Cause prosper'd, whilst Truth and Righteousness were driven into Corners; and therefore they concluded that there would be an after-day of Reckoning, when the most Just God would distribute Rewards more suitable to the Na<g ref="char:EOLhyphen"/>ture of Men's Actions; and they who like God did Excellent Things, should like God have an Excellent Portion. This is the Apostles Argument in this Chapter, where speaking of those times of Persecu<g ref="char:EOLhyphen"/>tion, he says, <hi>if only in this Life Good-Men had hope in Christ, they were of all Men most Miserable;</hi>
+               <note place="margin">Ver. 19.</note> and that, as to his own particular, it was to no purpose that he had been condemn'd, (as their custom at <hi>Ephesus</hi> was to treat Malefactors) to Combat with wild Beasts on the Theatre; if there was no Life after this, then the <hi>Epicure</hi> had some reason on his side, when he said, <hi>let us Eat and Drink,</hi>
+               <note place="margin">Ver. 32.</note>
+               <hi>for to Morrow we Die.</hi>
+            </p>
+            <p n="3">3. We have the concurrent Testimony of all Nations and Religions to confirm this Truth; how disagreeing soever the Religions of the Heathens were in other Matters, in this there was an una<g ref="char:EOLhyphen"/>nimous
+<pb n="14" facs="tcp:44878:9"/> and universal Consent, that there was an other Life after this, of Rewards and Punishments. Hence arose the many Fables of the Poets, concern<g ref="char:EOLhyphen"/>ing the Punishment of wicked Men in Hell, and their Descriptions of the <hi>Elysian</hi> Fields, which they made to be the happy Seat of Holy and Innocent Souls; hence was it that those Good Heathens who were Conscious to themselves of having lived up to the Light they had, spake such excellent Things of the Future State, and were so Fearless and Un<g ref="char:EOLhyphen"/>daunted when they came to Die. Thus <hi>Pythago<g ref="char:EOLhyphen"/>ras</hi> taught his Schollars, that <hi>If they liv'd Vertuously here, they should after Death go to Heaven, be like God and enjoy him with all those great and noble Souls that were gone before them;</hi> and <hi>Cato</hi> and <hi>Socrates</hi> not only laid it down for a truth, <hi>that after Death it would fare infinitely better with good Men than with bad;</hi> but as they are represented in the Writings of <hi>Tully</hi> and <hi>Plato,</hi> were under such feeling and passionate ap<g ref="char:EOLhyphen"/>prehensions of the happiness of another Life, <hi>that they breath'd and panted after it.</hi> Now how it came to pass that all the several Parties and Sects in Re<g ref="char:EOLhyphen"/>ligion in all the Nations of the World, whilst they so fiercely disputed and contended about other mat<g ref="char:EOLhyphen"/>ters, should be so unanimous in this point of future rewards and punishments, cannot easily be resolv'd into any thing else, but either into some Principles of Reason which are common to all Men, or else some Revelation that was made very early by God in the beginning of the World; Be it one or t'other of these, either proves the Proposition; for if they agreed in the perswasion of a future state from the
+<pb n="15" facs="tcp:44878:9"/> force of Natural Principles, what greater evidence can there be that they reasoned truly, than that all that used their reason should argue alike, and agree in the same conclusion: But if their agreement herein was the effect of some early Revelation from God, what stronger Argument can there be that the Re<g ref="char:EOLhyphen"/>velation was full and clear, than that it hath spread so wide, and lasted so long in the World; and if there was such a Revelation, (as it is probable there was from the Prophecy of <hi>Enoch,</hi> the <hi>seventh</hi> from <hi>Adam,</hi> mention'd in St. <hi>Jude</hi>'s Epistle,) it might easily be propagated till it came down to <hi>Noah,</hi> and when the Nations came to be divided and di<g ref="char:EOLhyphen"/>spersed, the several Heads of Tribes and Families, being all <hi>Noah</hi>'s Posterity, might carry it along with them where-ever they went, and leave it in Charge with their Children, as a thing of the greatest Consequence to Mankind, to be convey'd down successively to all Generations.</p>
+            <p n="4">4. After all this, Whether Natural Light can give sufficient Security of a future Glorious Reward to Good Men, it matters not much, now that we have Divine Revelation; our Saviour <hi>hath brought Life, and Immortality to light,</hi> and fully demonstrated the certainty of it, by his Resurrection from the Dead. And this is the Apostle's Argument in the beginning of this Chapter.</p>
+            <p>In our Saviour's Resurrection we may behold not only his Triumph over Death, but ours also, being assured by <hi>his</hi> of our <hi>own</hi> to a Blessed Immorta<g ref="char:EOLhyphen"/>lity. That our Saviour did arise from the Dead, is abundantly confirm'd by the Testimony of a
+<pb n="16" facs="tcp:44878:10"/> great number of credible Witnesses,<note place="margin">Ver. 7.9.</note>
+               <hi>He was seen,</hi> says the Apostle, <hi>of</hi> Cephas, <hi>then of the twelve, then of five hundred Brethren at once.</hi> And that his Resurrection is enough to beget in us a firm Belief of a Glorious State of Happiness in the o<g ref="char:EOLhyphen"/>ther World, appears from hence:</p>
+            <p n="1">1. As his Resurrection gives us the greatest assurance of the Truth of his Doctrine, and therein, of the Article of Everlasting Life. It being granted, that nothing less than a Divine Power can raise the Dead, it cannot be supposed that the God of Truth would employ it to bear witness to a Falshood. Our Saviour as he was Man, could not raise himself, no more than one that's Dead can give it self Life. The Devil would not do it, had he been able, it be<g ref="char:EOLhyphen"/>ing apparently Destructive to his Interest and King<g ref="char:EOLhyphen"/>dom; it could be nothing but the Power of God; and if God is as True as he is Powerful, he cannot be supposed to work a Miracle to attest a Lye.</p>
+            <p n="2">2. As his Resurrection gives us a discharge from the Guilt and Punishment of Sin, and so opens to all Believers the Kingdom of Heaven. As God in the Death of our Saviour did manifest his Wrath towards us, and execute his Justice upon us, so in raising him from the Dead, he hath declared him<g ref="char:EOLhyphen"/>self appeased, and his Justice satisfy'd; as we in his Sufferings were Punished, the <hi>Iniquity of us all being laid upon him,</hi> so in his Resurrection we are acquitted and restor'd to Grace. So speaks the Apostle, <hi>he was deliv<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red for our Offences,</hi>
+               <note place="margin">Rom. 4.25.</note>
+               <hi>and rose again for our Justification:</hi> And again, <hi>Who shall lay any thing to the Charge of God's Elect? It is God that justifieth;
+<pb n="17" facs="tcp:44878:10"/> who is he that condemneth? It's Christ that Died, yea rather that is Risen again, who is also at the Right-Hand of God, making Intercession for us.</hi>
+            </p>
+            <p n="3">3. As the Resurrection of Christ infers ours, Christ's Resurrection not only demonstrates the pos<g ref="char:EOLhyphen"/>sibility of ours, but gives an ample assurance of it: His raising himself, shews that he hath in him a Power to raise us; and his being our Head and Re<g ref="char:EOLhyphen"/>presentative, that he hath a Will, as well as a Power to do it; so that we are already risen in our Causes, since our Head and Representative is risen, and hath the same Power and Will to raise us, as he had to raise himself, hence he is called <hi>the first Born from the Dead, and the first Fruits of them that rise;</hi> that is, the Pledge and Hansel of our Resurrection. The first Fruits under the Law hallow'd all the rest. The Jews were oblig'd when they reap'd their Harvest to bring a Sheaf of the first Fruits to the Priest; and when this Oblation was made,<note place="margin">Levit. 23.9.</note> 'twas in lieu of all the rest, and the whole lump was hal<g ref="char:EOLhyphen"/>low'd by it; So that as that one Sheaf had relation to the whole Harvest, so the Resurrection of Christ implies that of his Members: Well then might St. <hi>Peter</hi> break out into Blessing and Praising of God on this account, <hi>Blessed be the God and Father of our Lord Jesus Christ; which,</hi>
+               <note place="margin">1 Pet. 1.3.</note>
+               <hi>according to his abundant Mercy, hath begotten us again unto a Lively Hope,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as another Greek Copy has it, to a Hope of Life, <hi>by the Resurrection of Jesus Christ from the Dead, to an Inheritance incorruptible and un<g ref="char:EOLhyphen"/>defil'd, and that fades not away, reserv'd in Heaven for you.</hi>
+            </p>
+            <pb n="18" facs="tcp:44878:11"/>
+            <p>To conclude; What a mighty Encouragement have we here to persevere in the Faith of Christ, and to <hi>abound</hi> in every Good Work?</p>
+            <p>This solemnity returns every Year, and you have had all the Arguments to Charity over and over prest upon you; you have been told more than once, that it's the most Natural, the most Necessary, the most Pleasant, the most Profitable, the most Chri<g ref="char:EOLhyphen"/>stian, nay, the most Godlike Virtue.</p>
+            <p>We at this season commemorate the Resurrection of our Lord from the Dead, and our best conformity to it is a Divine Life;<note place="margin">Col. 3.1, 2.</note>
+               <hi>If ye then be risen with Christ, seek those Things that are above, where Christ sits at the Right-Hand of God: Set your Affections on Things above, and not on Things here below;</hi> that is, if ye will de<g ref="char:EOLhyphen"/>monstrate your selves to be Christians indeed, risen with Christ, and alive to God as Christ is; you can do it no other way than by a generous contempt of this World, and a Life of Charity?</p>
+            <p>It is to the Righteous and Charitable, that we owe all our National Blessings; they are the Pillars that support our Fabrick, which otherwise would soon crack about our Ears, and sink under the load of our Sins and Follies: You cannot but be sensible, how very loose, and prophane an Age we live in; Atheism and Infidelity, and other Doctrines directly tending that way, never abounded so much amongst us as now they do: These are impudent and daring Sins, they do as it were challenge and defy God to his Face; and were it not that Holy and Charitable Souls, like <hi>Moses,</hi> stand in the gap, and keep off God's Judgments from us, we might justly fear his
+<pb n="19" facs="tcp:44878:11"/> Wrath would be kindled against us to the uttermost, and burn up our Place and Nation.</p>
+            <p>I hope, I need say nothing more to keep this Holy Fire alive within you, burning in your Breasts, and flaming out in your Actions; Remember 'tis <hi>the Work of the Lord,</hi> that which he most strictly Enjoyns, and will most gloriously Reward; <hi>for as much as ye know that your Labour is not in vain in the Lord.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAge</hi> 3. <hi>line</hi> 10. <hi>dele</hi> a, <hi>p.</hi> 7. <hi>l.</hi> 4. for or <hi>read</hi> and.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
